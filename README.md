@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @GMKrishna99
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning ... Full Stact Web Development
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... Travaller
 - 📫 How to reach me ...  linkdin https://www.linkedin.com/in/guntikovela-mohankrishna-12b093173/ 
-- instagram https://www.instagram.com/gmk_._/ 
+-  ℹ️  instagram https://www.instagram.com/gmk_._/ 
+- 🚵 Love to Traval long  
+- 
 
 <!---
 GMKrishna99/GMKrishna99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
