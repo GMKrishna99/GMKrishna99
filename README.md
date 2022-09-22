@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @GMKrishna99
+- 👋 Hi, I’m Mohan Krishna
+-  pet name - Bablu
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning ... Full Stact Web Development
 - 💞️ I’m looking to collaborate on ... Travaller
