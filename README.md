@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ... Full Stact Web Development
 - 💞️ I’m looking to collaborate on ... Who Love to Travallel 
 - 📫 How to reach me ...  linkdin https://www.linkedin.com/in/guntikovela-mohankrishna-12b093173/ 
--  ℹ️  instagram https://www.instagram.com/gmk_._/ 
-- 🚵 likes to go far away to the place where there are no peoples 
+-  ℹ️  instagram https://www.instagram.com/gmk_._/  
 - 🌳 Nature Lover ❤️
 
 <!---
